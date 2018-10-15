@@ -4,7 +4,7 @@ RC 1 :
 https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-RC1.ipa
 
 RC 2 :
-https://github.com/pwn20wndstuff/Undecimus/blob/master/Resources/Undecimus-RC2.ipa
+https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-RC2.ipa
 
 RC 3 :
 https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-RC3.ipa
