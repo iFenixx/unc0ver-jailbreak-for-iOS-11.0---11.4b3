@@ -25,4 +25,13 @@ RC 8 :
 https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-RC8.ipa
 
 RC 9 :
+https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-RC9.ipa
+
+V1.0.0 :
+https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-V1.ipa
+
+V1.0.2 :
+https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-V1.0.2.ipa
+
+V1.0.3 : 
 https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus.ipa
