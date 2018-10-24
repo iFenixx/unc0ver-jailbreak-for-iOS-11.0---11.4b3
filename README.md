@@ -1,4 +1,10 @@
 # unc0ver-jailbreak-for-iOS-11.0-11.4b3
+The most advanced jailbreak tool
+
+by @pwn20wnd & @sbingner
+UI by @DennisBednarz & Samg_is_a_Ninja
+
+
 
 RC 1 :
 https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-RC1.ipa
