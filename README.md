@@ -4,7 +4,7 @@ The most advanced jailbreak tool
 by @pwn20wnd & @sbingner
 UI by @DennisBednarz & Samg_is_a_Ninja
 
-________________________________________________________________________________
+______________________________________________________________________________
 
 RC 1 :
 https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-RC1.ipa
@@ -33,7 +33,7 @@ https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-RC8.ip
 RC 9 :
 https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-RC9.ipa
 
-_________________________________________________________________________________
+_______________________________________________________________________________
 
 V1.0.0 :
 https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus-V1.ipa
