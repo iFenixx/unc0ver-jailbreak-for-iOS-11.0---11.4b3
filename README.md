@@ -32,43 +32,9 @@ v1.1.2: Improve auto layout and code and Significantly improve Empty_List (VFS) 
 
 v1.1.3: Fix a bug in starting jailbreakd
 
-v1.1.4: Fix a bug in finding offsets: 
+v1.1.4: Fix a bug in finding offsets 
 
 
 Download ipa : https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus.ipa
 
-
-
-
-Special Thanks
-
-@i41nbeer for triple_fetch, async_wake, empty_list & multi_path
-
-@Morpheus______ for the QiLin Toolkit
-
-@xerub for libjb and the original patchfinder64
-
-@iBSparkes for the original amfid_payload, jailbreakd and pspawn_hook
-
-@stek29 for the patchfinder64 additions, unlocknvram and hsp4
-
-@theninjaprawn for the patchfinder64 additions
-
-@Cryptiiiic for testing
-
-@xanDesign_ for testing
-
-@AppleDry05 for testing
-
-@Rob_Coleman123 for testing
-
-@MidnightChip for testing
-
-@FCE365 for testing
-
-@Swag_iOS for testing
-
-@jailbreakbuster for testing
-
-@Jakeashacks for testing
 
