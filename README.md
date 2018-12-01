@@ -34,7 +34,19 @@ v1.1.3: Fix a bug in starting jailbreakd
 
 v1.1.4: Fix a bug in finding offsets 
 
+v2.0.0 : 11/30/2018 - v2.0.0 was released for public testing with the following changes:
 
-Download ipa : https://github.com/pwn20wndstuff/Undecimus/raw/master/Resources/Undecimus.ipa
+Initial Cydia Substrate support (Requires an updated version of Cydia Substrate which will be released publicly for everyone by Jay Freeman (Saurik) himself at some point), OTA upgrades for the jailbreak patches from Cydia without rebooting, a new button to restart SpringBoard from the jailed state, a switch to (re)install OpenSSH, a switch to reinstall Cydia, a switch to restart backboardd only so that you can jailbreak with broken tweaks, update bootstrap, fix for the jailbreakd error, battery life fixes, ELOD (Electra Loop Of Death) mitigations, improve the speed of system reload, fixes for countless bugs and improvements which I can't remember of right now (We have been working on this update for over a month, I lost the track), I will update the change log as I remember more later
+
+Reminder: You can use the built-in RootFS Restore option to turn your device back to stock
+
+11/30/2018 - v2.0.0 was updated for public testing with the following changes:
+
+Update: The Pre-Release IPA was updated with the following changes: Enable Restart and Restart SpringBoard buttons on iOS 11.4 - 11.4.1 (Jailbreak itself doesn't work on iOS 11.4 - 11.4.1), improve the reliability of the Restart button, fix the broken multi_path entitlement check, add the compatibility layer for the other jailbreaks back to fix the apps like iCleaner and fix the bootstrap error
+
+
+v1.1.4 Download ipa : https://github.com/pwn20wndstuff/Undecimus/releases/download/v1.1.4/Undecimus.ipa
+
+v2.0.0 Download ipa : https://github.com/pwn20wndstuff/Undecimus/releases/download/v2.0.0/Undecimus.ipa
 
 
